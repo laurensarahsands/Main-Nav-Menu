@@ -1,2 +1,1 @@
-Demeter Consulting
-Demeter Consulting Website Version 1
+I would like to change the name of main-nav-menu to 'Demeter Consulting Project Files' but I don't think I succeeded! This part of the commit page allows us to describe what change we're making and acts as a history of our project.
